@@ -1,0 +1,2860 @@
+<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul><!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="windows-1251" />
+<title>Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве</title>
+<meta name="description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta name="keywords" content="" /><meta name="author" content="Filmix"/><meta property="og:type" content="website" />
+<meta property="og:url" content="https://filmix.ac/" />
+<meta property="og:site_name" content="Filmix" />
+<meta property="og:title" content="Смотреть сериалы онлайн жанра Фантастика в отличном FHD качестве" />
+<meta property="og:description" content="Просмотр сериалов онлайн жанра Фантастика в отличном FHD качестве и без регистрации." />
+<meta property="og:image" content="https://filmix.ac/templates/Filmix/media/img/filmix.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="70" />
+<meta property="og:image:height" content="70" />
+
+<link rel="dns-prefetch" href="https://thumbs.filmix.ac/" >
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Security-Policy" content="default-src * blob: data: 'unsafe-inline' 'unsafe-eval'; script-src * blob: data: 'unsafe-inline' 'unsafe-eval'; connect-src * data: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; child-src * blob: data: ; style-src * 'unsafe-inline';" />
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/icomoon/fonts/icomoon.ttf?vl6whr" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-500.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-italic.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-700.woff2" as="font" crossorigin>
+		<link rel="preload" href="https://filmix.ac/templates/Filmix/media/fonts/Roboto/roboto-v20-latin_cyrillic-regular.woff2" as="font" crossorigin>
+		<link rel="icon" href="https://filmix.ac/templates/Filmix/media/img/favicon.ico" type="image/x-icon" />
+		
+		
+		<link rel="canonical" href="https://filmix.ac/series/fantastiks/s7/" />
+		
+		
+		<link rel="stylesheet" href="https://filmix.ac/templates/Filmix/media/public/css/cat.css?v=8f89dd02a4df522c8768eff67935d35c">
+		
+		<!--  Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GYLWSWSZ3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-GYLWSWSZ3C');
+</script>
+	</head>
+	<body class=" body-guest">
+		
+		<div id="YNORhbcP"></div>
+		<div id="branding_zone"></div>
+		
+		<div class="page-wrapper">
+			<header id="header" class="header-f">
+				<div class="container">
+					<a href="https://filmix.ac" class="logo">Filmix</a>
+					<div class="search">
+	<form method="post" class="search_header" role="search">
+		<div class="search-wrap icon-search">
+			<input type="text" name="story" id="search" placeholder="Что ищем?" autocomplete="off" >
+			<label class="visually-hidden" for="search">Поиск</label>
+			<input type="hidden" name="do" value="search" />
+			<input type="hidden" name="simple" value="1" />
+			<input type="hidden" name="subaction" value="search" />
+			<input class="f_submited" type="submit" value="">
+			<a href="https://filmix.ac/search" class="costumSearch" rel="nofollow">расширенный поиск</a>
+			<span class="close-search icon-close"></span>
+		</div>
+	</form>
+	<div class="searchResults">
+	</div>
+</div>
+<script type="text/html" id="search_quick_item">
+	<% if (message && message.posts && message.posts.length) { %>
+		<div class="search-quick-item-title">Фильмы и сериалы</div>
+		<% for (var i = 0, l = message.posts.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.posts[i].id%>">
+				<a href="<%=message.posts[i].link%>">
+					<img src="<%=message.posts[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.posts[i].title%></div>
+						<div class="original-title"><%=message.posts[i].original_name%></div>
+						<div>
+							<span class="year"><%=message.posts[i].year%></span>
+							<span class="category"><%=message.posts[i].categories%></span>
+						</div>
+						<% if (message.posts[i].last_serie !== '') { %>
+							<div class="additional-info"><span class="left">Добавлена:</span> <%=message.posts[i].last_serie%></div>
+						<% } %>
+					</div>
+				</a>
+				<% if (dle_group === 1 || dle_group === 2) { %>
+					<a href="<%=site_root + 'admin.php?mod=editnews&action=editnews&id=' + message.posts[i].id%>" target="_blank" class="edit icon-adminEdit"></a>
+				<% } %>
+			</div>
+		<% } %>
+	<% } %>
+	<% if (message && message.persons && message.persons.length) { %>
+		<div class="search-quick-item-title">Персоны</div>
+		<% for (var i = 0, l = message.persons.length; i < l; i++) { %>
+			<div class="search-quick-item" id="<%=message.persons[i].id%>">
+				<a href="<%=message.persons[i].link%>">
+					<img src="<%=message.persons[i].poster%>" class="poster" loading="lazy">
+					<div class="right">
+						<div class="title"><%=message.persons[i].title%></div>
+						<div class="original-title"><%=message.persons[i].original_name%></div>
+						<% if (message.persons[i].birth_year) { %>
+							<div class="year"><%=message.persons[i].birth_year%><% if (message.persons[i].death_year) { %> - <%=message.persons[i].death_year%> <% } %></div>
+						<% } %>
+					</div>
+				</a>
+			</div>
+		<% } %>
+	<% } %>
+</script>
+					
+
+<nav class="header-menu">
+	<ul>
+		<li>
+			
+			
+				<span class="menu-title">Фильмы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul">
+						<span class="data-page" data-page="https://filmix.ac/films/">Все фильмы</span>
+					</li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/а">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/premiere">Премьеры</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/filmi">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/films/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/films/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul">
+						<span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/films/c64/">Советские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/films/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/films/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/films/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/animes/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/biografia/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/boevik/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/vesterny/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/voennyj/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detektivy/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/detskij/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/for_adults/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/dokumentalenyj/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/drama/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/istoricheskie/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/komedia/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/korotkometragka/">Короткометражка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/kriminaly/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/melodrama/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/mistika/">Мистика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/music/">Музыка</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/muzkl/">Мюзикл</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/novosti/">Новости</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/original/">Оригинал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/otechestvennye/">Отечественные</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tvs/">Передачи с ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/prikluchenija/">Приключения</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/realnoe_tv/">Реальное ТВ</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/semejnye/">Семейный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/sports/">Спорт</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/tok_show/">Ток-шоу</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/films/triller/">Триллеры</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/uzhasu/">Ужасы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fantastiks/">Фантастика</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/film_noir/">Фильм-нуар</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/films/fjuntezia/">Фэнтези</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/engl/">На английском</span></li>
+					<li><span class="data-page fatter-cat" data-page="https://filmix.ac/films/ukraine/">На украинском</span></li>
+				</ul>
+				<div class="lucky"><span class="data-page" data-page="https://filmix.ac/random_movie">Случайный</span></div>
+			</div>
+		</li>
+		<li>
+			
+			
+				<span class="menu-title">Сериалы</span>
+			
+			<div class="sub-nav-wrapper">
+				<ul class="sub-main-nav col-one new-style">
+					<li class="hasul"><span class="data-page" data-page="https://filmix.ac/series/">Все сериалы</span></li>
+					<li class="nomargin">
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/catalog/s7/a">По алфавиту</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/playlists/serials">Подборки</span></li>
+							<li class="nomargin">
+								<ul class="qualities">
+									<li><span class="data-page" data-page="https://filmix.ac/series/qg/">720p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/qh/">1080p</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q2/">1080p Ultra+</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q4/">4K</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q6/">HDR 1080</span></li>
+									<li><span class="data-page" data-page="https://filmix.ac/series/q8/">HDR 4K</span></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li class="hasul"><span class="subtitle">По странам:</span>
+						<ul>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c996/">Зарубежные</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c6/">Русские</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c26/">Турецкие</span></li>
+							<li><span class="data-page" data-page="https://filmix.ac/series/c54/">Индийские</span></li>
+						</ul>
+					</li>
+					<li class="top250-mark"><span class="data-page" data-page="https://filmix.ac/top250s/">Топ 250</span></li>
+					<li class="nomargin">
+						<span class="years-line"><span class="data-page" data-page="https://filmix.ac/series/y2023/" >2023</span><span class="data-page" data-page="https://filmix.ac/series/y2022/" >2022</span><span class="data-page" data-page="https://filmix.ac/series/y2021/" >2021</span></span>
+					</li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/animes/s7/">Аниме</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/biografia/s7/">Биография</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/boevik/s7/">Боевики</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/vesterny/s7/">Вестерн</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/voennyj/s7/">Военный</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detektivy/s7/">Детектив</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/detskij/s7/">Детский</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/for_adults/s7/">Для взрослых</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/dokumentalenyj/s7/">Документальные</span></li>
+				</ul>
+				<ul class="sub-main-nav">
+					<li><span class="data-page" data-page="https://filmix.ac/series/dorama/s7/">Дорамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/drama/s7/">Драмы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/game/s7/">Игра</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/istoricheskie/s7/">Исторический</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/komedia/s7/">Комедии</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/kriminaly/s7/">Криминал</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/melodrama/s7/">Мелодрамы</span></li>
+					<li><span class="data-page" data-page="https://filmix.ac/series/mistika/s7/">Мистика</span></li>
+					<li><span class="data-page" data-page="h
